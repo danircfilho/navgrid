@@ -1,0 +1,84 @@
+/*NAV*/
+.bg-light {
+  background-color: #a1badb !important;
+}
+
+.container-nav {
+  padding: 0 25% 0 25%;
+}
+
+.color-text-nav {
+  color: #140b3f;
+}
+
+.img-nav {
+  height: 90px;
+}
+
+/*SECTION*/
+.quem-somos {
+  background-color: #bfc0cf;
+  color: #2c4861;
+}
+
+.service {
+  background-color: #c8b7d3;
+  color: #855c7e;
+}
+
+.parceria {
+  background-color: #d6c7c7;
+  color: #6e1e3d;
+}
+
+.imgp-parc {
+  justify-items: center !important;
+}
+
+.img-parc-goog {
+  width: 50%;
+  padding-bottom: 30px;
+}
+
+.img-parc-face {
+  width: 60%;
+  padding-bottom: 50px;
+}
+
+.img-parc-micro {
+  width: 60%;
+  padding-bottom: 50px;
+}
+
+.margin {
+  padding: 50px;
+}
+
+.margin-footer {
+  padding: 20px;
+}
+
+.image-padd {
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  padding: 30px;
+}
+
+.h3-padd {
+  padding-bottom: 40px;
+}
+
+.img-service {
+  margin-bottom: 40px;
+  width: 50%;
+}
+
+/*FOOTER*/
+.bg-footer {
+  background-color: #b68973;
+}
+
+.p-color {
+  color: #572c09;
+}

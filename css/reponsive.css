@@ -1,0 +1,13 @@
+@media screen and (max-width: 900px) {
+  .img-tecnol {
+    height: 70% !important;
+    width: 70% !important;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .img-tecnol {
+    height: 45% !important;
+    width: 45% !important;
+  }
+}
