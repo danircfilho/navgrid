@@ -1,4 +1,4 @@
-# Clone baseado no Netflix
+# Menu e responsividade com bootstrap e Css
 
 ## Tecnologias utilizadas
 
