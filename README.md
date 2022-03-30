@@ -13,3 +13,7 @@ Site elaborado com bootstrap para aprendizado do framework (menu de navegação 
 ## Veja o exemplo do website clicando no link abaixo
 
 https://responsividade-bootstrap.netlify.app
+
+Copyrigth (c) 2021 - Daniel Rodrigues de Carvalho Filho
+
+"This project is licensed under the terms of the MIT license."
