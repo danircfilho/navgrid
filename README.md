@@ -9,3 +9,7 @@
 ## Descrição
 
 Site elaborado com bootstrap para aprendizado do framework (menu de navegação e mudanças com o CSS puro).
+
+## Veja o exemplo do website clicando no link abaixo
+
+https://wonderful-marigold-1e15c3.netlify.app/
