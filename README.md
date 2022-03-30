@@ -12,4 +12,4 @@ Site elaborado com bootstrap para aprendizado do framework (menu de navegação 
 
 ## Veja o exemplo do website clicando no link abaixo
 
-https://wonderful-marigold-1e15c3.netlify.app/
+https://responsividade-bootstrap.netlify.app
